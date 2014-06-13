@@ -15,4 +15,4 @@
 //= require_tree .
 //= require bootstrap
 //= require maily_herald/webui
-//= require smart_listing/smart_listing
+//= require smart_listing
